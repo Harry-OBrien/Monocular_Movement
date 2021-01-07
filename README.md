@@ -21,3 +21,5 @@ The algorithm will use a combination of SLAM, object avoidence and optical flow 
  - [Optical flow avoidance](https://www.youtube.com/watch?v=pAI_ZJOD7zQ)
  - [Gazebo Simulator](https://blog.generationrobots.com/en/robotic-simulation-scenarios-with-gazebo-and-ros/)
  - [Paper on optical flow](https://www.hindawi.com/journals/misy/2016/8937176/)
+ - [Paper on control of a quadcopter with reinforcement learning](https://arxiv.org/pdf/1707.05110.pdf)
+ - [Reinforcement contro git repo](https://github.com/udacity/RL-Quadcopter)
