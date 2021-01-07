@@ -19,5 +19,7 @@ The algorithm will use a combination of SLAM, object avoidence and optical flow 
 
 ### Useful links for development
 [Optical flow avoidance](https://www.youtube.com/watch?v=pAI_ZJOD7zQ)
+
 [Gazebo Simulator](https://blog.generationrobots.com/en/robotic-simulation-scenarios-with-gazebo-and-ros/)
+
 [Paper on optical flow](https://www.hindawi.com/journals/misy/2016/8937176/)
